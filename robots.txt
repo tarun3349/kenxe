@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Fast crawl rate
+Crawl-delay: 0.5
+
+# Sitemaps
+Sitemap: https://www.kenxe.vercel.app/sitemap.xml
