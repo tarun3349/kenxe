@@ -1,9 +1,22 @@
 {
+  "version": 2,
   "redirects": [
     {
-      "source": "/",
-      "destination": "/",
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.kenxe.vercel.app"
+        }
+      ],
+      "destination": "https://kenxe.vercel.app/$1",
       "permanent": true
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }

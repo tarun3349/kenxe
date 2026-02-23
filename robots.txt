@@ -5,4 +5,4 @@ Allow: /
 Crawl-delay: 0.5
 
 # Sitemaps
-Sitemap: https://www.kenxe.vercel.app/sitemap.xml
+Sitemap: https://kenxe.vercel.app/sitemap.xml

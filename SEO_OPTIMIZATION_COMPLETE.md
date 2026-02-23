@@ -10,7 +10,7 @@
 - ✅ Revisit-after meta tag (7 days)
 - ✅ Open Graph tags for all social platforms
 - ✅ Twitter card tags with images
-- ✅ Canonical URL set to www.kenxe.vercel.app
+- ✅ Canonical URL set to kenxe.vercel.app
 - ✅ Alternate hreflang tags (en-IN, en)
 - ✅ Security headers (X-UA-Compatible, X-Content-Type-Options)
 
@@ -178,7 +178,7 @@ Target Keywords:
 
 ### Requires Configuration:
 1. **Google Search Console** (GSC)
-   - Add property: https://www.kenxe.vercel.app
+   - Add property: https://kenxe.vercel.app
    - Add verification token to meta tag
    - Submit sitemap
 
